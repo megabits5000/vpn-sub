@@ -1,4 +1,4 @@
-#profile-title: ᴄʀᴇᴀᴛɪᴠᴇ ▶︎ ᴠᴘɴ
+#profile-title: ᴄʀᴇᴀᴛɪᴠᴇ ▶︎ ᴠᴘɴ 
 hysteria2://LmW7RNBZuY@creativeboxse.zanity.net:8443?security=tls&fp=firefox&alpn=h3&sni=creativeboxse.zanity.net#%F0%9F%87%B8%F0%9F%87%AA%20%D1%95%E1%B4%A1%E1%B4%87%E1%B4%85%E1%B4%87%C9%B4%20%E2%96%B6%20%CA%9C%CA%8Fs%E1%B4%9B%E1%B4%87%CA%80%C9%AA%E1%B4%80%2030Gb
 vless://db930149-5990-4d33-a4df-827ca32f9857@creativegermany.zanity.net:8080?type=tcp&encryption=none&security=reality&pbk=wlCQHmkq1TitjEeUtFQOsVggI9b3Y7HM2HChqpDGVW4&fp=firefox&sni=ozon.ru&sid=8df222bed6a5ab72&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F%20%E2%96%B6%EF%B8%8E%20%E1%B4%A0%CA%9F%E1%B4%87%D1%95%D1%95%20500Gb
 hysteria2://snYLxzbbwP@creativegermany.zanity.net:11443?security=tls&fp=firefox&alpn=h3&sni=creativegermany.zanity.net#%F0%9F%87%A9%F0%9F%87%AA%20%C9%A2%E1%B4%87%CA%80%E1%B4%8D%E1%B4%80%C9%B4%CA%8F%20%E2%96%B6%EF%B8%8E%20%CA%9C%CA%8Fs%E1%B4%9B%E1%B4%87%CA%80%C9%AA%E1%B4%80%20200Gb
